@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-openxlsx",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "openxlsx",
+				"SPDX-License-Identifier": "BSD-3-Clause license",
+				"sourceLink" : "https://github.com/troldal/OpenXLSX",
+				"version" : "1.0.0",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "openxlsx"
+	}
+}
