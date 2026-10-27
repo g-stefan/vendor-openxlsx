@@ -1,6 +1,5 @@
 {
 	"solution": {
-		"namespace" : "xyo",
 		"name" : "vendor-openxlsx",
 		"type" : "xyo-cpp",
 		"projects": [
